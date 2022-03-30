@@ -1,11 +1,12 @@
-package Level1;
+package BaekJoon_Level1;
 import java.util.Scanner;
-public class AplusB{
+public class AminusB {
     public static void main(String[]args){
-        int a,b;
         Scanner s=new Scanner(System.in);
+        int a,b;
         a=s.nextInt();
         b=s.nextInt();
-        System.out.printf("%d",a+b);
+        System.out.println(a-b);
+        s.close();
     }
 }
