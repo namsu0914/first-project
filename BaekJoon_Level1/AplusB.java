@@ -7,5 +7,6 @@ public class AplusB{
         a=s.nextInt();
         b=s.nextInt();
         System.out.printf("%d",a+b);
+        s.close();
     }
 }

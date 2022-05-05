@@ -1,6 +1,6 @@
 package BaekJoon_Level4;
 import java.io.*;
-import java.io.IOException;
+//import java.io.IOException;
 import java.util.StringTokenizer;
 
 public class Average {
