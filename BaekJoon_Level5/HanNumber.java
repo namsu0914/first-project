@@ -14,7 +14,7 @@ public class HanNumber {
     private static int hansu(int N){
         int i=0;
         if(N<100){
-            i=N;;
+            i=N;
         }
         else if(N>=100){
             i=99;
